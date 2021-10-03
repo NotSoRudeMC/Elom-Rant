@@ -1,0 +1,70 @@
+body {
+  background-color: #FFE5B4;
+  color: Black;
+}
+
+#rant h1{
+  padding-top:5px;
+  margin-top:;
+  font-family: monospace;
+}
+
+#rant{
+  padding-top:65px;
+  padding-bottom:30px;
+  font-family:serif;
+}
+
+.buttons a{
+  margin-top:10px;
+  margin-left:0px;
+}
+
+.buttons a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.buttons a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: coral;
+  color: darkblue;
+}
+
+.next {
+  background-color: coral;
+  color: darkblue;
+}
+
+.round {
+  border-radius: 50%;
+}
+.Mainbutton{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.current {
+padding-bottom:0px;
+}
+
+.headimg img{
+  padding-top:40px;
+  padding-left:220px;
+  padding-bottom: 0px;
+  width:1000px;
+  height:100px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: orange;
+  color: white;
+  text-align: center;
+}
